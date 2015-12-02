@@ -1,0 +1,14 @@
+.Мои_Работы {
+  font-size: 20px;
+  font-family: "Open Sans";
+  color: rgb( 114, 112, 112 );
+  line-height: 1.1;
+  text-align: left;
+  text-shadow: 0.5px 0.866px 0px rgb( 255, 255, 255 );
+  position: absolute;
+  left: 240px;
+  top: 204px;
+  width: 141px;
+  height: 36px;
+  z-index: 69;
+}

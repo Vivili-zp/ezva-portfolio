@@ -1,0 +1,58 @@
+.f_ico, .tw_ico, .b_ico, .git_ico, .tw_hower, .b_hover, .f_hover, .git_hover{
+	background: url(..//images/sprites.png) no-repeat;
+ 
+}
+
+.f_ico{
+	background-position: -3px 0;
+	width: 30px;
+	height: 29px; 
+}
+.f_ico:hover {
+    background-position: 0 -51px ;
+	width: 30px;
+	height: 29px;
+}
+
+.tw_ico{
+	background-position: -95px -4px ;
+	width: 36px;
+	height: 27px;
+}
+
+.b_ico{
+	background-position: -47px -2px ;
+	width: 33px;
+	height: 28px;
+}
+
+.git_ico{
+	background-position: -145px -1px ;
+	width: 35px;
+	height: 31px;
+}
+
+.tw_hower{
+	background-position: -95px -52px ;
+	width: 36px;
+	height: 27px;
+}
+
+.b_hover{
+	background-position: -45px -51px ;
+	width: 33px;
+	height: 28px;
+}
+
+.f_hover{
+	background-position: 0 -51px ;
+	width: 30px;
+	height: 29px;
+}
+
+.git_hover{
+	background-position: -143px -48px ;
+	width: 35px;
+	height: 31px;
+}
+
